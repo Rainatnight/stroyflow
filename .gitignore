@@ -1,0 +1,34 @@
+# === Node ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# === Next.js ===
+next/.next/
+next/out/
+next/build/
+next/.env.local
+next/.env.development.local
+next/.env.production.local
+next/.env.test.local
+.next/cache
+
+# === Nest.js ===
+nest/dist/
+nest/node_modules/
+nest/.env
+nest/tsconfig.build.tsbuildinfo
+
+# === IDE / OS ===
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# === Logs ===
+logs/
+*.log
