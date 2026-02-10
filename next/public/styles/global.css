@@ -1,6 +1,19 @@
 :root {
-  --primary-color: #1890ff;
-  --secondary-color: #52c41a;
-  --font-size-base: 16px;
-  --padding-base: 8px;
+  /* Основные цвета */
+  --color-bg: #f5f5f5;
+  --color-card-bg: #ffffff;
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-border: #e0e0e0;
+
+  /* Акценты */
+  --color-primary: #1890ff;
+  --color-primary-hover: #0f66d2;
+  --color-success: #52c41a;
+  --color-warning: #faad14;
+  --color-error: #f5222d;
+
+  /* Дополнительно */
+  --color-light-gray: #f0f0f0;
+  --color-black: #000000;
 }
