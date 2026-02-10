@@ -5,7 +5,7 @@ import { api } from "@/entities/api";
 const TestPage = () => {
   const sendReq = async () => {
     try {
-      const response = await api.get("/users");
+      const response = await api.get("/users/test");
       console.log("Users:", response.data);
     } catch (error) {
       console.log(error);
