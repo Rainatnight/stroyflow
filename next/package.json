@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tanstack/react-virtual": "^3.13.18",
     "antd": "^6.3.0",
     "axios": "^1.13.5",
     "axios-extensions": "^3.1.6",
